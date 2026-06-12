@@ -161,7 +161,7 @@ class 本科生:
 <img src="https://komarev.com/ghpvc/?username=yunLin0&style=for-the-badge&color=764ba2&label=Profile%20Views" alt="Visitor Count" />
 
 ### `"给时间以生命,给岁月以文明！"`
-#### — 后刘慈欣
+#### — 刘慈欣
 
 <img src="https://media.giphy.com/media/RbHmWtEbdeALTdkeO7/giphy.gif" width="80">
 
