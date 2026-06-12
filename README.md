@@ -3,15 +3,15 @@
 <!-- HEADER WITH GRADIENT TEXT -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 你好，我是 <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Yun Lin</span>
 
-**`数据探索者`** | **`代码炼金术士`** | **`模式发现者`**
+**`在校学生`** | **`代码练习生`** | **`数据小白`**
 
-<img src="https://komarev.com/ghpvc/?username=yunLin0&style=flat-square&color=667eea&label=访问量" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=yunLin0&style=for-the-badge&color=667eea&label=Profile%20Views" alt="Profile Views">
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="24"> `关于我`
+## 🎸 `波奇の自我介绍`
 
 <table>
 <tr>
@@ -28,10 +28,11 @@ class 本科生:
             "数据可视化",
             "科学计算"
         ]
-        self.当前状态 = "将数据转化为洞见 📊"
+        self.当前状态 = "正在学习中，请多指教 📚"
+        self.水平     = "初学者，还在爬坑 🐛"
 
     def 打招呼(self):
-        print("感谢访问！期待与你交流 🚀")
+        print("感谢访问！一起学习进步 🚀")
 
 我 = 本科生()
 我.打招呼()
@@ -40,7 +41,7 @@ class 本科生:
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/5okrQJipmPIEZmPu3M/giphy.gif" width="250">
 
 </td>
 </tr>
@@ -48,7 +49,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="24"> `技能矩阵`
+## 🎯 `波奇の技能树`
 
 | Skill | Proficiency | Bar |
 |-------|:-----------:|-----|
@@ -60,7 +61,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="24"> `技术栈`
+## 🛠️ `波奇の装备栏`
 
 <div align="center">
 
@@ -93,7 +94,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="24"> `GitHub 数据分析`
+## 📊 `波奇の数据面板`
 
 <div align="center">
 
@@ -113,7 +114,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3534/3534038.png" width="24"> `贡献模式`
+## 🐍 `波奇の活跃记录`
 
 <div align="center">
 
@@ -124,7 +125,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="24"> `活动时间线`
+## 📈 `波奇の时间线`
 
 <!-- Activity Graph -->
 <div align="center">
@@ -135,7 +136,7 @@ class 本科生:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3437/3437363.png" width="24"> `联系方式`
+## 📮 `找到波奇酱`
 
 <div align="center">
 
@@ -157,12 +158,12 @@ class 本科生:
 <div align="center">
 
 <!-- VISITOR COUNTER & FOOTER -->
-<img src="https://komarev.com/ghpvc/?username=yunLin0&style=flat-square&color=764ba2&label=访问人数" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=yunLin0&style=for-the-badge&color=764ba2&label=Profile%20Views" alt="Visitor Count" />
 
-### `"给时间以生命，给岁月以文明"`
-#### — 刘慈欣
+### `"给时间以生命,给岁月以文明！"`
+#### — 后刘慈欣
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr2yK96/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/RbHmWtEbdeALTdkeO7/giphy.gif" width="80">
 
 **感谢访问！** 👋
 
